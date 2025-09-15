@@ -15,5 +15,7 @@ color:
 ```
 ___
 
+🐶😸
+
 [高科大][https://www.nkust.edu.tw/]
 ![NKUST](NKUST.png "NKUST")
